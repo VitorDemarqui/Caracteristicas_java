@@ -47,7 +47,27 @@ one/digitalinnovation/web/finals/Gamer.java
  one.digitalinnovation.web.finals.Gamer
 one/digitalinnovation/web/statics/Programa.java
  one.digitalinnovation.web.statics.Programa
+one/digitalinnovation/web/interfaces/Veiculo.java
+ one.digitalinnovation.web.interfaces.Veiculo
 one/digitalinnovation/web/finals/Programa.java
  one.digitalinnovation.web.finals.Programa
+one/digitalinnovation/web/interfaces/Trator.java
+ one.digitalinnovation.web.interfaces.Trator
 one/digitalinnovation/web/finals/HardCoreGamer.java
  one.digitalinnovation.web.finals.HardCoreGamer
+one/digitalinnovation/web/enums/Status.java
+ one.digitalinnovation.web.enums.Status
+one/digitalinnovation/web/interfaces/Gol.java
+ one.digitalinnovation.web.interfaces.Gol
+one/digitalinnovation/web/interfaces/Programa.java
+ one.digitalinnovation.web.interfaces.Programa
+one/digitalinnovation/web/enums/TipoVeiculo.java
+ one.digitalinnovation.web.enums.TipoVeiculo
+one/digitalinnovation/web/interfaces/Automovel.java
+ one.digitalinnovation.web.interfaces.Automovel
+one/digitalinnovation/web/interfaces/Carro.java
+ one.digitalinnovation.web.interfaces.Carro
+one/digitalinnovation/web/interfaces/Fiesta.java
+ one.digitalinnovation.web.interfaces.Fiesta
+one/digitalinnovation/web/enums/Programa.java
+ one.digitalinnovation.web.enums.Programa
