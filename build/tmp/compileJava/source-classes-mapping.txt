@@ -33,9 +33,21 @@ one/digitalinnovation/web/abstracts/FormaGeometrica.java
  one.digitalinnovation.web.abstracts.FormaGeometrica
 one/digitalinnovation/web/classes/cliente/ProgramaDoCliente.java
  one.digitalinnovation.web.classes.cliente.ProgramaDoCliente
-one/digitalinnovation/web/abstracts/Quadrado.java
- one.digitalinnovation.web.abstracts.Quadrado
-one/digitalinnovation/web/abstracts/Programa.java
- one.digitalinnovation.web.abstracts.Programa
 one/digitalinnovation/web/classes/cliente/Cliente.java
  one.digitalinnovation.web.classes.cliente.Cliente
+one/digitalinnovation/web/abstracts/Programa.java
+ one.digitalinnovation.web.abstracts.Programa
+one/digitalinnovation/web/abstracts/Quadrado.java
+ one.digitalinnovation.web.abstracts.Quadrado
+one/digitalinnovation/web/statics/Cachorro.java
+ one.digitalinnovation.web.statics.Cachorro
+one/digitalinnovation/web/finals/CasualGamer.java
+ one.digitalinnovation.web.finals.CasualGamer
+one/digitalinnovation/web/finals/Gamer.java
+ one.digitalinnovation.web.finals.Gamer
+one/digitalinnovation/web/statics/Programa.java
+ one.digitalinnovation.web.statics.Programa
+one/digitalinnovation/web/finals/Programa.java
+ one.digitalinnovation.web.finals.Programa
+one/digitalinnovation/web/finals/HardCoreGamer.java
+ one.digitalinnovation.web.finals.HardCoreGamer
